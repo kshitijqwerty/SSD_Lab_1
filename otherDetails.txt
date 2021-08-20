@@ -1,2 +1,0 @@
-Roll: 2021201075
-Branch: CSE
